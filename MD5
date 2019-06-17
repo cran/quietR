@@ -1,0 +1,11 @@
+66a8f18acb31116f5549f7a4c9b603de *DESCRIPTION
+934c0066c12560169aa882c71ded9380 *LICENSE
+2b54edd7b18d962396c8c869fea5d20e *NAMESPACE
+733094c8a451a335005aa70abc40e594 *R/cat.R
+920b9344e36594f5c5c9952ad318c9dd *R/message.R
+c7af1641c6da58b4bed06a99a4dc8159 *R/print.R
+5da1569d00da10adf77a597c03fae6d5 *R/verbosity.R
+e5da4d277c81fab7b5e9a5cec5404732 *man/quietR-outputs.Rd
+62171920bc943963e3b1ec498b78b33a *man/verbosity.Rd
+276dd5927725de4b4476c1743afc19be *tests/testthat.R
+b289b3dc71789cfa838092d857d08481 *tests/testthat/test-verbosity.R
